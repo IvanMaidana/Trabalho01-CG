@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1651027106 source:c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1650974264 c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1589222603 source:c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\src\vector2.h
+
+1651095472 source:c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"bmp.h"
+	"Botao.h"
+
+1650975621 c:\users\maida\desktop\computação gráfica\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
